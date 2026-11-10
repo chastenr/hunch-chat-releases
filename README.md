@@ -1,6 +1,8 @@
 # Hunch Chat desktop downloads
 
-Hunch Chat for Mac and Windows opens in its own desktop app, with native notifications, file saving and update checks. An internet connection and a Hunch account are required.
+Hunch Chat for Mac and Windows opens in its own desktop app, with native notifications, file saving and update checks. An internet connection and an account are required.
+
+Hunch Chat uses the green-and-white speech bubbles. Hunch Note is the separate notes and workspace app with the H mark. Both apps use the same account.
 
 [Download the latest release](https://github.com/chastenr/hunch-chat-releases/releases/latest) · [Open Hunch Chat](https://hunchme.vercel.app/chat/)
 
